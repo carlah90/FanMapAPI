@@ -1,0 +1,158 @@
+{
+  "_id": {
+    "$oid": "6a2f00ca9bf55a3eb51a41bc"
+  },
+  "grupo_id": "SVT-000",
+  "nombre_grupo": "SEVENTEEN",
+  "debut_grupal": "2015-05-26",
+  "fandom": "CARAT",
+  "miembros": [
+    {
+      "miembro_id": "SVT-01",
+      "nombre": "S.Coups",
+      "rol": [
+        "Líder General",
+        "Rapero"
+      ],
+      "unidad": "Hip-Hop Team",
+      "carrera_solitario": {
+        "debut_solo": null,
+        "discografia": [],
+        "multimedia": {},
+        "streams_geolocalizados": [],
+        "eventos_solo": []
+      }
+    },
+    {
+      "miembro_id": "SVT-02",
+      "nombre": "Jeonghan",
+      "rol": [
+        "Vocalista"
+      ],
+      "unidad": "Vocal Team",
+      "carrera_solitario": {
+        "debut_solo": null,
+        "discografia": [],
+        "multimedia": {},
+        "streams_geolocalizados": [],
+        "eventos_solo": []
+      }
+    },
+    {
+      "miembro_id": "SVT-03",
+      "nombre": "Joshua",
+      "rol": [
+        "Vocalista"
+      ],
+      "unidad": "Vocal Team",
+      "carrera_solitario": {
+        "debut_solo": null,
+        "discografia": [],
+        "multimedia": {},
+        "streams_geolocalizados": [],
+        "eventos_solo": []
+      }
+    },
+    {
+      "miembro_id": "SVT-04",
+      "nombre": "Jun",
+      "rol": [
+        "Vocalista",
+        "Bailarín"
+      ],
+      "unidad": "Performance Team",
+      "carrera_solitario": {
+        "debut_solo": "2018-12-14",
+        "discografia": [
+          "Psycho (2018)",
+          "Limbo (2022)"
+        ],
+        "multimedia": {
+          "videos": [
+            {
+              "id": "JUN-VID-01",
+              "url": "https://youtube.com/watch?v=example",
+              "descripcion": "Limbo MV"
+            }
+          ]
+        },
+        "streams_geolocalizados": [
+          {
+            "cancion": "Limbo",
+            "plataforma": "Spotify",
+            "periodo": "2026-06",
+            "mapa_calor": [
+              {
+                "region": "China",
+                "type": "Point",
+                "coordinates": [
+                  116.4074,
+                  39.9042
+                ],
+                "streams": 2500000
+              }
+            ]
+          }
+        ],
+        "eventos_solo": [
+          {
+            "evento_id": "JUN-2022-LIMBO",
+            "nombre": "Limbo Showcase",
+            "fecha": "2022-09-23",
+            "ubicacion": {
+              "type": "Point",
+              "coordinates": [
+                126.978,
+                37.5665
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "streams_grupales": [
+    {
+      "cancion": "Super",
+      "plataforma": "Spotify",
+      "periodo": "2026-06",
+      "mapa_calor": [
+        {
+          "region": "Japón",
+          "type": "Point",
+          "coordinates": [
+            139.6917,
+            35.6895
+          ],
+          "streams": 5000000
+        }
+      ]
+    }
+  ],
+  "eventos_grupales": [
+    {
+      "evento_id": "SVT-TOUR-2025",
+      "nombre": "FOLLOW AGAIN Tour",
+      "fecha_inicio": "2025-04-02",
+      "ubicaciones": [
+        {
+          "ciudad": "Tokio",
+          "type": "Point",
+          "coordinates": [
+            139.6917,
+            35.6895
+          ]
+        },
+        {
+          "ciudad": "Bangkok",
+          "type": "Point",
+          "coordinates": [
+            100.5018,
+            13.7563
+          ]
+        }
+      ]
+    }
+  ],
+  "ultima_actualizacion": "2026-06-14T14:10:00Z"
+}
