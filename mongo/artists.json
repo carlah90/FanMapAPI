@@ -1,0 +1,801 @@
+[{
+  "_id": {
+    "$oid": "6a2efc8b9bf55a3eb51a41b7"
+  },
+  "grupo_id": "BTS-000",
+  "nombre_grupo": "BTS",
+  "debut_grupal": "2013-06-13",
+  "fandom": "ARMY",
+  "miembros": [
+    {
+      "miembro_id": "BTS-01",
+      "nombre": "RM",
+      "rol": [
+        "Líder",
+        "Rapero",
+        "Productor"
+      ],
+      "carrera_solitario": {
+        "debut_solo": "2015-03-20",
+        "discografia": [
+          "RM (2015)",
+          "Mono (2018)",
+          "Indigo (2022)",
+          "Right Place, Wrong Person (2024)"
+        ],
+        "multimedia": {
+          "imagenes": [
+            {
+              "id": "RM-IMG-01",
+              "url": "https://ibighit.com/rm/indigo/concept1.jpg",
+              "descripcion": "Concept photo Indigo",
+              "formato": "jpg"
+            }
+          ],
+          "videos": [
+            {
+              "id": "RM-VID-01",
+              "url": "https://youtube.com/watch?v=u18be_kRmC0",
+              "descripcion": "Wild Flower MV",
+              "duracion_seg": 289
+            }
+          ]
+        },
+        "streams_geolocalizados": [
+          {
+            "cancion": "Wild Flower",
+            "plataforma": "Spotify",
+            "periodo": "2026-06",
+            "mapa_calor": [
+              {
+                "region": "Corea del Sur",
+                "type": "Point",
+                "coordinates": [
+                  126.978,
+                  37.5665
+                ],
+                "streams": 3200000
+              },
+              {
+                "region": "Estados Unidos",
+                "type": "Point",
+                "coordinates": [
+                  -77.0369,
+                  38.9072
+                ],
+                "streams": 1500000
+              }
+            ]
+          }
+        ],
+        "eventos_solo": [
+          {
+            "evento_id": "RM-2024-RPWP",
+            "nombre": "Right Place, Wrong Person Showcase",
+            "fecha": "2024-05-25",
+            "ubicacion": {
+              "type": "Point",
+              "coordinates": [
+                126.978,
+                37.5665
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "miembro_id": "BTS-02",
+      "nombre": "Jin",
+      "rol": [
+        "Vocalista"
+      ],
+      "carrera_solitario": {
+        "debut_solo": "2022-10-28",
+        "discografia": [
+          "The Astronaut (2022)",
+          "Happy (2024)"
+        ],
+        "multimedia": {
+          "videos": [
+            {
+              "id": "JIN-VID-01",
+              "url": "https://youtube.com/watch?v=c6ASQOwKkhk",
+              "descripcion": "The Astronaut MV"
+            }
+          ]
+        },
+        "streams_geolocalizados": [
+          {
+            "cancion": "The Astronaut",
+            "plataforma": "Spotify",
+            "periodo": "2026-06",
+            "mapa_calor": [
+              {
+                "region": "Argentina",
+                "type": "Point",
+                "coordinates": [
+                  -58.3816,
+                  -34.6037
+                ],
+                "streams": 450000
+              }
+            ]
+          }
+        ],
+        "eventos_solo": [
+          {
+            "evento_id": "JIN-2024-HAPPY",
+            "nombre": "Happy Release Celebration",
+            "fecha": "2024-07-10",
+            "ubicacion": {
+              "type": "Point",
+              "coordinates": [
+                126.978,
+                37.5665
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "miembro_id": "BTS-03",
+      "nombre": "SUGA",
+      "rol": [
+        "Rapero",
+        "Productor"
+      ],
+      "alias_solo": "Agust D",
+      "carrera_solitario": {
+        "debut_solo": "2016-08-15",
+        "discografia": [
+          "Agust D (2016)",
+          "D-2 (2020)",
+          "D-Day (2023)"
+        ],
+        "multimedia": {
+          "videos": [
+            {
+              "id": "SG-VID-01",
+              "url": "https://youtube.com/watch?v=qGjAWJ2zWWI",
+              "descripcion": "Haegeum MV"
+            }
+          ]
+        },
+        "streams_geolocalizados": [
+          {
+            "cancion": "Haegeum",
+            "plataforma": "Spotify",
+            "periodo": "2026-06",
+            "mapa_calor": [
+              {
+                "region": "México",
+                "type": "Point",
+                "coordinates": [
+                  -99.1332,
+                  19.4326
+                ],
+                "streams": 980000
+              }
+            ]
+          }
+        ],
+        "eventos_solo": [
+          {
+            "evento_id": "SG-2023-DDAY",
+            "nombre": "D-DAY TOUR",
+            "fecha": "2023-04-26",
+            "ubicacion": {
+              "type": "Point",
+              "coordinates": [
+                139.6917,
+                35.6895
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "miembro_id": "BTS-04",
+      "nombre": "j-hope",
+      "rol": [
+        "Rapero",
+        "Bailarín",
+        "Productor"
+      ],
+      "carrera_solitario": {
+        "debut_solo": "2018-03-02",
+        "discografia": [
+          "Hope World (2018)",
+          "Jack in the Box (2022)",
+          "HOPE ON THE STREET VOL.1 (2024)"
+        ],
+        "multimedia": {
+          "videos": [
+            {
+              "id": "JH-VID-01",
+              "url": "https://youtube.com/watch?v=OK3GJ0WIQ8s",
+              "descripcion": "MORE MV"
+            }
+          ]
+        },
+        "streams_geolocalizados": [
+          {
+            "cancion": "On The Street",
+            "plataforma": "Spotify",
+            "periodo": "2026-06",
+            "mapa_calor": [
+              {
+                "region": "Brasil",
+                "type": "Point",
+                "coordinates": [
+                  -47.8825,
+                  -15.7942
+                ],
+                "streams": 1500000
+              }
+            ]
+          }
+        ],
+        "eventos_solo": [
+          {
+            "evento_id": "JH-2024-HOTS",
+            "nombre": "HOPE ON THE STREET Premiere",
+            "fecha": "2024-03-27",
+            "ubicacion": {
+              "type": "Point",
+              "coordinates": [
+                135.5023,
+                34.6937
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "miembro_id": "BTS-05",
+      "nombre": "Jimin",
+      "rol": [
+        "Vocalista",
+        "Bailarín"
+      ],
+      "carrera_solitario": {
+        "debut_solo": "2023-03-24",
+        "discografia": [
+          "FACE (2023)",
+          "MUSE (2024)"
+        ],
+        "multimedia": {
+          "videos": [
+            {
+              "id": "JM-VID-01",
+              "url": "https://youtube.com/watch?v=UaywgAqcLxI",
+              "descripcion": "Like Crazy MV"
+            }
+          ]
+        },
+        "streams_geolocalizados": [
+          {
+            "cancion": "Like Crazy",
+            "plataforma": "Spotify",
+            "periodo": "2026-06",
+            "mapa_calor": [
+              {
+                "region": "Estados Unidos",
+                "type": "Point",
+                "coordinates": [
+                  -77.0369,
+                  38.9072
+                ],
+                "streams": 2500000
+              }
+            ]
+          }
+        ],
+        "eventos_solo": [
+          {
+            "evento_id": "JM-2024-MUSE",
+            "nombre": "MUSE Listening Party",
+            "fecha": "2024-07-19",
+            "ubicacion": {
+              "type": "Point",
+              "coordinates": [
+                126.978,
+                37.5665
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "miembro_id": "BTS-06",
+      "nombre": "V",
+      "rol": [
+        "Vocalista",
+        "Bailarín",
+        "Visual",
+        "Actor",
+        "Modelo"
+      ],
+      "carrera_solitario": {
+        "debut_solo": "2023-09-08",
+        "discografia": [
+          "Layover (2023)"
+        ],
+        "multimedia": {
+          "imagenes": [
+            {
+              "id": "V-IMG-01",
+              "url": "https://ibighit.com/v/layover/concept1.jpg",
+              "descripcion": "Layover Concept Photo"
+            }
+          ]
+        },
+        "streams_geolocalizados": [
+          {
+            "cancion": "Slow Dancing",
+            "plataforma": "Spotify",
+            "periodo": "2026-06",
+            "mapa_calor": [
+              {
+                "region": "Filipinas",
+                "type": "Point",
+                "coordinates": [
+                  120.9842,
+                  14.5995
+                ],
+                "streams": 1800000
+              }
+            ]
+          }
+        ],
+        "eventos_solo": [
+          {
+            "evento_id": "V-2023-LAYOVER",
+            "nombre": "Layover Release Showcase",
+            "fecha": "2023-09-09",
+            "ubicacion": {
+              "type": "Point",
+              "coordinates": [
+                126.978,
+                37.5665
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "miembro_id": "BTS-07",
+      "nombre": "Jungkook",
+      "rol": [
+        "Vocalista Principal",
+        "Bailarín"
+      ],
+      "carrera_solitario": {
+        "debut_solo": "2023-11-03",
+        "discografia": [
+          "GOLDEN (2023)"
+        ],
+        "multimedia": {
+          "videos": [
+            {
+              "id": "JK-VID-01",
+              "url": "https://youtube.com/watch?v=QU9c0053UAU",
+              "descripcion": "Seven MV"
+            }
+          ]
+        },
+        "streams_geolocalizados": [
+          {
+            "cancion": "Seven",
+            "plataforma": "Spotify",
+            "periodo": "2026-06",
+            "mapa_calor": [
+              {
+                "region": "India",
+                "type": "Point",
+                "coordinates": [
+                  77.209,
+                  28.6139
+                ],
+                "streams": 3500000
+              }
+            ]
+          }
+        ],
+        "eventos_solo": [
+          {
+            "evento_id": "JK-2023-GOLDEN",
+            "nombre": "GOLDEN Live On Stage",
+            "fecha": "2023-11-20",
+            "ubicacion": {
+              "type": "Point",
+              "coordinates": [
+                126.978,
+                37.5665
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "eventos_grupales": [
+    {
+      "evento_id": "BTS-TOUR-2026",
+      "nombre": "BTS World Tour 2026: Arirang",
+      "fecha_inicio": "2026-04-10",
+      "ubicaciones": [
+        {
+          "ciudad": "Seúl",
+          "type": "Point",
+          "coordinates": [
+            126.978,
+            37.5665
+          ]
+        },
+        {
+          "ciudad": "Tokio",
+          "type": "Point",
+          "coordinates": [
+            139.6917,
+            35.6895
+          ]
+        },
+        {
+          "ciudad": "Santiago",
+          "type": "Point",
+          "coordinates": [
+            -70.61,
+            -33.456
+          ]
+        }
+      ]
+    }
+  ],
+  "ultima_actualizacion": "2026-06-14T13:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "6a2f00909bf55a3eb51a41b9"
+  },
+  "grupo_id": "TXT-000",
+  "nombre_grupo": "TOMORROW X TOGETHER",
+  "debut_grupal": "2019-03-04",
+  "fandom": "MOA",
+  "miembros": [
+    {
+      "miembro_id": "TXT-01",
+      "nombre": "Soobin",
+      "rol": [
+        "Líder",
+        "Vocalista",
+        "Rapero"
+      ],
+      "carrera_solitario": {
+        "debut_solo": null,
+        "discografia": [],
+        "multimedia": {},
+        "streams_geolocalizados": [],
+        "eventos_solo": []
+      }
+    },
+    {
+      "miembro_id": "TXT-02",
+      "nombre": "Yeonjun",
+      "rol": [
+        "Rapero",
+        "Bailarín",
+        "Vocalista"
+      ],
+      "carrera_solitario": {
+        "debut_solo": "2024-01-15",
+        "discografia": [
+          "One Day (2024)"
+        ],
+        "multimedia": {
+          "videos": [
+            {
+              "id": "YJ-VID-01",
+              "url": "https://youtube.com/watch?v=example",
+              "descripcion": "One Day MV"
+            }
+          ]
+        },
+        "streams_geolocalizados": [
+          {
+            "cancion": "One Day",
+            "plataforma": "Spotify",
+            "periodo": "2026-06",
+            "mapa_calor": [
+              {
+                "region": "Indonesia",
+                "type": "Point",
+                "coordinates": [
+                  106.8456,
+                  -6.2088
+                ],
+                "streams": 900000
+              }
+            ]
+          }
+        ],
+        "eventos_solo": [
+          {
+            "evento_id": "YJ-2024-ONEDAY",
+            "nombre": "One Day Showcase",
+            "fecha": "2024-01-20",
+            "ubicacion": {
+              "type": "Point",
+              "coordinates": [
+                126.978,
+                37.5665
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "miembro_id": "TXT-03",
+      "nombre": "Beomgyu",
+      "rol": [
+        "Vocalista",
+        "Bailarín",
+        "Productor"
+      ],
+      "carrera_solitario": {
+        "debut_solo": null,
+        "discografia": [],
+        "multimedia": {},
+        "streams_geolocalizados": [],
+        "eventos_solo": []
+      }
+    },
+    {
+      "miembro_id": "TXT-04",
+      "nombre": "Taehyun",
+      "rol": [
+        "Vocalista Principal"
+      ],
+      "carrera_solitario": {
+        "debut_solo": null,
+        "discografia": [],
+        "multimedia": {},
+        "streams_geolocalizados": [],
+        "eventos_solo": []
+      }
+    },
+    {
+      "miembro_id": "TXT-05",
+      "nombre": "Huening Kai",
+      "rol": [
+        "Vocalista",
+        "Bailarín"
+      ],
+      "carrera_solitario": {
+        "debut_solo": null,
+        "discografia": [],
+        "multimedia": {},
+        "streams_geolocalizados": [],
+        "eventos_solo": []
+      }
+    }
+  ],
+  "streams_grupales": [
+    {
+      "cancion": "Sugar Rush Ride",
+      "plataforma": "Spotify",
+      "periodo": "2026-06",
+      "mapa_calor": [
+        {
+          "region": "Corea del Sur",
+          "type": "Point",
+          "coordinates": [
+            126.978,
+            37.5665
+          ],
+          "streams": 2100000
+        },
+        {
+          "region": "México",
+          "type": "Point",
+          "coordinates": [
+            -99.1332,
+            19.4326
+          ],
+          "streams": 1800000
+        }
+      ]
+    }
+  ],
+  "eventos_grupales": [
+    {
+      "evento_id": "TXT-TOUR-2025",
+      "nombre": "ACT: PROMISE World Tour",
+      "fecha_inicio": "2025-03-15",
+      "ubicaciones": [
+        {
+          "ciudad": "Seúl",
+          "type": "Point",
+          "coordinates": [
+            126.978,
+            37.5665
+          ]
+        },
+        {
+          "ciudad": "Los Ángeles",
+          "type": "Point",
+          "coordinates": [
+            -118.2437,
+            34.0522
+          ]
+        }
+      ]
+    }
+  ],
+  "ultima_actualizacion": "2026-06-14T14:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6a2f00ca9bf55a3eb51a41bc"
+  },
+  "grupo_id": "SVT-000",
+  "nombre_grupo": "SEVENTEEN",
+  "debut_grupal": "2015-05-26",
+  "fandom": "CARAT",
+  "miembros": [
+    {
+      "miembro_id": "SVT-01",
+      "nombre": "S.Coups",
+      "rol": [
+        "Líder General",
+        "Rapero"
+      ],
+      "unidad": "Hip-Hop Team",
+      "carrera_solitario": {
+        "debut_solo": null,
+        "discografia": [],
+        "multimedia": {},
+        "streams_geolocalizados": [],
+        "eventos_solo": []
+      }
+    },
+    {
+      "miembro_id": "SVT-02",
+      "nombre": "Jeonghan",
+      "rol": [
+        "Vocalista"
+      ],
+      "unidad": "Vocal Team",
+      "carrera_solitario": {
+        "debut_solo": null,
+        "discografia": [],
+        "multimedia": {},
+        "streams_geolocalizados": [],
+        "eventos_solo": []
+      }
+    },
+    {
+      "miembro_id": "SVT-03",
+      "nombre": "Joshua",
+      "rol": [
+        "Vocalista"
+      ],
+      "unidad": "Vocal Team",
+      "carrera_solitario": {
+        "debut_solo": null,
+        "discografia": [],
+        "multimedia": {},
+        "streams_geolocalizados": [],
+        "eventos_solo": []
+      }
+    },
+    {
+      "miembro_id": "SVT-04",
+      "nombre": "Jun",
+      "rol": [
+        "Vocalista",
+        "Bailarín"
+      ],
+      "unidad": "Performance Team",
+      "carrera_solitario": {
+        "debut_solo": "2018-12-14",
+        "discografia": [
+          "Psycho (2018)",
+          "Limbo (2022)"
+        ],
+        "multimedia": {
+          "videos": [
+            {
+              "id": "JUN-VID-01",
+              "url": "https://youtube.com/watch?v=example",
+              "descripcion": "Limbo MV"
+            }
+          ]
+        },
+        "streams_geolocalizados": [
+          {
+            "cancion": "Limbo",
+            "plataforma": "Spotify",
+            "periodo": "2026-06",
+            "mapa_calor": [
+              {
+                "region": "China",
+                "type": "Point",
+                "coordinates": [
+                  116.4074,
+                  39.9042
+                ],
+                "streams": 2500000
+              }
+            ]
+          }
+        ],
+        "eventos_solo": [
+          {
+            "evento_id": "JUN-2022-LIMBO",
+            "nombre": "Limbo Showcase",
+            "fecha": "2022-09-23",
+            "ubicacion": {
+              "type": "Point",
+              "coordinates": [
+                126.978,
+                37.5665
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "streams_grupales": [
+    {
+      "cancion": "Super",
+      "plataforma": "Spotify",
+      "periodo": "2026-06",
+      "mapa_calor": [
+        {
+          "region": "Japón",
+          "type": "Point",
+          "coordinates": [
+            139.6917,
+            35.6895
+          ],
+          "streams": 5000000
+        }
+      ]
+    }
+  ],
+  "eventos_grupales": [
+    {
+      "evento_id": "SVT-TOUR-2025",
+      "nombre": "FOLLOW AGAIN Tour",
+      "fecha_inicio": "2025-04-02",
+      "ubicaciones": [
+        {
+          "ciudad": "Tokio",
+          "type": "Point",
+          "coordinates": [
+            139.6917,
+            35.6895
+          ]
+        },
+        {
+          "ciudad": "Bangkok",
+          "type": "Point",
+          "coordinates": [
+            100.5018,
+            13.7563
+          ]
+        }
+      ]
+    }
+  ],
+  "ultima_actualizacion": "2026-06-14T14:10:00Z"
+}]
